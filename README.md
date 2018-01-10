@@ -7,6 +7,6 @@ This package contains four Python modules containing
 It also contains:
 * the HTML documentation of all three Python modules
 * an HTML containing a minimal version of instructions for using these modules
-* the probability under the alpha-model of each dendrogram with $\leq 8$ leaves
+* the probability under the alpha-model of each dendrogram with <=8 leaves
 
 Finally, it contains the LICENSE associated to the python-newick class (it can be found in https://github.com/glottobank/python-newick ) and Derivative Works, such as this one.
